@@ -16,4 +16,4 @@ Lingua Alemã fluente.
 Lingua Norueguesa fluente.
 Lingua Chinesa fluente.
 Lingua Italiana fluente.
-Lingua Espanhola fluente.
+Lingua Espanhola fluente
